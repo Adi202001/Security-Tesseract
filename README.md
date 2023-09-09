@@ -7,10 +7,15 @@ Welcome to our GitHub repository dedicated to cybersecurity study materials. In 
 Key Features:
 
 **Comprehensive Resource Library**: We've gathered an extensive selection of materials covering various aspects of cybersecurity, ranging from beginner-friendly content to advanced topics.
+
 **Organized Categories**: Our repository is neatly organized into categories such as network security, cryptography, ethical hacking, and more, making it easy to locate specific resources.
+
 **Community Contributions**: We encourage contributions from the cybersecurity community. If you have valuable study materials to share, feel free to submit pull requests or open issues.
+
 **Continuous Updates**: We strive to keep our repository up to date with the latest cybersecurity trends, technologies, and best practices.
+
 **Collaboration**: GitHub's collaboration features allow you to collaborate with fellow learners, ask questions, and engage in discussions related to the materials.
+
 ***Who Can Benefit***:
 
 *Students*: Whether you're just starting your journey in cybersecurity or looking to deepen your knowledge, you'll find resources suitable for your level.
