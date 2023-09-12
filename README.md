@@ -28,3 +28,6 @@ To get started with your cybersecurity studies, simply browse our repository and
 Your journey towards cybersecurity excellence begins here. Happy learning and stay secure!
 
 This description introduces your GitHub repository as a valuable resource hub for cybersecurity enthusiasts and learners, emphasizing its organization, community involvement, and its relevance to a wide audience, from beginners to seasoned professionals.
+
+**Gdrive link for study material :** https://drive.google.com/drive/folders/1EMznApkK6LGfsS2uzLt_ra2K6admIbrb?usp=share_link
+**Note: Structured links of this repo need you help and support. please collaborate to this repo.**
